@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'http://140.117.68.125/limesurvey/index.php/747595?lang=zh-Hant-TW',
+	'http://140.117.68.125/limesurvey/index.php/971389?lang=zh-Hant-TW'
 ];
